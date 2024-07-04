@@ -1,0 +1,12 @@
+**Developed By Mufaro H Singende **
+
+**Instructions**
+- Activate the Virtual Environment
+- Install the Requirements: pip install -r requirements.txt
+- Then, make database migrations: python manage.py makemigrations: python manage.py migrate
+- Create a Superuser: python manage.py createsuperuser
+- And finally, run the application: python manage.py runserver
+
+
+** Admin Login Credentials - email: myrohsing@gmail.com, password - admin12345 **
+** Employee/Staff Login Credentials example - email: sarah@gmail.com, password - jackson **

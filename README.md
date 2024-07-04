@@ -15,11 +15,11 @@ The Employee Management System is a comprehensive web-based application designed
 
 ## Technology Stack
 
-- **Backend**: [Django (Python)](https://www.djangoproject.com/)
+- **Backend**: [**Django (Python)**](https://www.djangoproject.com/)
 - **Frontend**: 
-  - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  - [Bootstrap](https://getbootstrap.com/)
-- **Database**: [PostgreSQL](https://www.postgresql.org/)
-- **Others**: [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging)
+  - [**HTML**](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  - [**CSS**](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  - [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [**Bootstrap**](https://getbootstrap.com/)
+- **Database**: [**PostgreSQL**](https://www.postgresql.org/)
+- **Others**: [**Firebase Cloud Messaging**](https://firebase.google.com/docs/cloud-messaging)

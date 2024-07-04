@@ -22,4 +22,4 @@ The Employee Management System is a comprehensive web-based application designed
   - [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [**Bootstrap**](https://getbootstrap.com/)
 - **Database**: [**PostgreSQL**](https://www.postgresql.org/)
-- **Others**: [**Firebase Cloud Messaging**](https://firebase.google.com/docs/cloud-messaging)
+- **Messaging**: [**Firebase Cloud Messaging**](https://firebase.google.com/docs/cloud-messaging)

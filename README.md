@@ -11,7 +11,7 @@ The Employee Management System is a comprehensive web-based application designed
 - **Department Management**: Add new departments and assign employees to departments.
 - **Authentication and Authorization**: Secure access to the system based on user roles.
 - **User-friendly Interface**: Responsive design for an enhanced user experience.
-- **Allows Managers to view Client Information and and review Client projects. 
+- **Clients**: Allows Managers to view Client Information and and review Client projects. 
 
 ## Technology Stack
 

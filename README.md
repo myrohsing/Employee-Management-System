@@ -1,6 +1,6 @@
 ## Sybrin Project Designed by Mufaro H Singende 
 
-The Employee Management System is a web-based application designed to manage employee data efficiently. It allows administrators to add, update, view, and delete employee information. This project is built using Django, a high-level Python web framework, to ensure a robust and scalable solution.
+The Employee Management System is a comprehensive web-based application designed to streamline the management of employee data, leave requests, messaging, project assignments, department management, client information, and client projects. Built using Django, a high-level Python web framework, the system ensures a robust and scalable solution for organizational needs.
 
 ## Features
 

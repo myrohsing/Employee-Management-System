@@ -6,7 +6,7 @@ The Employee Management System is a comprehensive web-based application designed
 
 - **Employee Management**: Add, update, view, and delete employee records.
 - **Leave Management**: Employees can request leave, and managers can approve or decline these requests.
-- **Messaging**: Employees and managers can send and receive messages.
+- **Messaging**: Employees and managers can send and receive messages and Employees can send feedback to managers
 - **Project Assignment**: Managers can assign projects to employees and stipulate project timelines.
 - **Department Management**: Add new departments and assign employees to departments.
 - **Authentication and Authorization**: Secure access to the system based on user roles.
